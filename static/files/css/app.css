@@ -2,6 +2,7 @@
 @import url("./sections/omni.css");
 @import url("./sections/torrents.css");
 @import url("./sections/downloads.css");
+@import url("./sections/ads.css");
 
 /* global styles  */
 html, body {
