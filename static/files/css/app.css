@@ -3,6 +3,9 @@
 @import url("./sections/torrents.css");
 @import url("./sections/downloads.css");
 @import url("./sections/ads.css");
+@import url("./sections/ads1.css");
+@import url("./sections/ads2.css");
+
 
 /* global styles  */
 html, body {
